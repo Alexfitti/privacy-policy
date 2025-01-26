@@ -1,7 +1,7 @@
 
 Privacy Policy for [Monksboard]
 Last Updated: [01/27/2025]
-At [Monksboard] (“we,” “our,” or “us”), we are committed to respecting the privacy of our users. This internal tool is designed to assist our creative teams by generating beautiful and cohesive mood boards based on project descriptions, references, and AI-powered analysis. These mood boards are compiled into a Google Slides presentation, enriched with images sourced from Pinterest.
+At Monksboard, we are committed to respecting the privacy of our users. This internal tool is designed to assist our creative teams by generating beautiful and cohesive mood boards based on project descriptions, references, and AI-powered analysis. These mood boards are compiled into a Google Slides presentation, enriched with images sourced from Pinterest.
 
 Key Principles
 Empowering Creatives
